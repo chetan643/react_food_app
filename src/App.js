@@ -7,6 +7,7 @@ function App() {
     <CartProvider>
       <Header />
       <main>
+      HELLO
         <Meals />
       </main>
     </CartProvider>
